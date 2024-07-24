@@ -14,4 +14,6 @@ If there are at least two (using first_index() and last_index() ) find m and n (
 If (n-m) <= 2 there is nothing to reverse (that part is already symmetric), return 0 (and exit)
 Otherwise (using reverse_array() )reverse that part, return 1 (and exit).
 Write the main function to test partial_reverse(int A[], int size, int n).
+<br/>
 <img src="1.png" width="128"/>
+
