@@ -15,5 +15,5 @@ If (n-m) <= 2 there is nothing to reverse (that part is already symmetric), retu
 Otherwise (using reverse_array() )reverse that part, return 1 (and exit).
 Write the main function to test partial_reverse(int A[], int size, int n).
 <br/>
-<img src="1.png" width="128"/>
+<center><img src="1.png" width="128"/></center>
 
